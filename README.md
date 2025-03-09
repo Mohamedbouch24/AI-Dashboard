@@ -1,1 +1,3 @@
-# AI-Dashboard
+# AI-Dashboard numpy  
+pandas  
+scikit-learn  
